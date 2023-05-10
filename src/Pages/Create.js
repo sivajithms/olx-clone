@@ -4,6 +4,7 @@ import Create from '../Components/Create/Create';
 
 const CreatePage = () => {
   return (
+    
     <Fragment>
       <Header />
       <Create/>
